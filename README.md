@@ -1,2 +1,2 @@
 # tools4ctf
-easy CTF tool installer script
+Easy CTF tool installer script
