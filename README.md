@@ -24,4 +24,4 @@ Easy CTF tool installer script
    chmod +x tools4ctf.sh
 3. Run the script using
    ```bash
-   ./tools4ctf.s
+   ./tools4ctf.sh
